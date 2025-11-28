@@ -12,5 +12,12 @@
     "password": "muno",
     "expiresAt": "2025-12-30",
     "allowOffline": true
+  },
+  {
+    "id": "8988a8d695d4a0e9",
+    "username": "isiko",
+    "password": "muno",
+    "expiresAt": "2025-12-30",
+    "allowOffline": true
   }
 ]
